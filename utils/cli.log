@@ -1,0 +1,905 @@
+0--------  global  ---------0
+{ isArray: 
+   { [Function]
+     [length]: [33m0[39m,
+     [name]: [32m''[39m,
+     [arguments]: [1mnull[22m,
+     [caller]: [1mnull[22m,
+     [prototype]: { [constructor]: [36m[Circular][39m } } }
+1--------  global  ---------1
+
+
+0--------  require  ---------0
+{ [Function: require]
+  [length]: [33m1[39m,
+  [name]: [32m'require'[39m,
+  [arguments]: [1mnull[22m,
+  [caller]: [1mnull[22m,
+  [prototype]: { [constructor]: [36m[Circular][39m },
+  resolve: 
+   { [Function]
+     [length]: [33m1[39m,
+     [name]: [32m''[39m,
+     [arguments]: [1mnull[22m,
+     [caller]: [1mnull[22m,
+     [prototype]: { [constructor]: [36m[Circular][39m } },
+  [paths]: [36m[Getter][39m,
+  main: 
+   { id: [32m'.'[39m,
+     exports: {},
+     parent: [1mnull[22m,
+     filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+     loaded: [33mfalse[39m,
+     children: 
+      [ { id: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+          exports: 
+           { [Function: customConsole]
+             [length]: [33m4[39m,
+             [name]: [32m'customConsole'[39m,
+             [arguments]: [36m[Getter/Setter][39m,
+             [caller]: [36m[Getter/Setter][39m,
+             [prototype]: { [constructor]: [36m[Circular][39m },
+             enableLogging: 
+              { [Function]
+                [length]: [33m0[39m,
+                [name]: [32m''[39m,
+                [arguments]: [36m[Getter/Setter][39m,
+                [caller]: [36m[Getter/Setter][39m,
+                [prototype]: { [constructor]: [36m[Circular][39m } } },
+          parent: [36m[Circular][39m,
+          filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+          loaded: [33mtrue[39m,
+          children: [ [length]: [33m0[39m ],
+          paths: 
+           [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+             [32m'A:\\work\\PDE\\node_modules'[39m,
+             [32m'A:\\work\\node_modules'[39m,
+             [32m'A:\\node_modules'[39m,
+             [length]: [33m11[39m ] },
+        [length]: [33m1[39m ],
+     paths: 
+      [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+        [32m'A:\\work\\PDE\\node_modules'[39m,
+        [32m'A:\\work\\node_modules'[39m,
+        [32m'A:\\node_modules'[39m,
+        [length]: [33m11[39m ] },
+  extensions: 
+   { [32m'.js'[39m: 
+      { [Function]
+        [length]: [33m2[39m,
+        [name]: [32m''[39m,
+        [arguments]: 
+         { [32m'0'[39m: 
+            { id: [32m'.'[39m,
+              exports: {},
+              parent: [1mnull[22m,
+              filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+              loaded: [33mfalse[39m,
+              children: 
+               [ { id: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+                   exports: 
+                    { [Function: customConsole]
+                      [length]: [33m4[39m,
+                      [name]: [32m'customConsole'[39m,
+                      [arguments]: [36m[Getter/Setter][39m,
+                      [caller]: [36m[Getter/Setter][39m,
+                      [prototype]: { [constructor]: [36m[Circular][39m },
+                      enableLogging: 
+                       { [Function]
+                         [length]: [33m0[39m,
+                         [name]: [32m''[39m,
+                         [arguments]: [36m[Getter/Setter][39m,
+                         [caller]: [36m[Getter/Setter][39m,
+                         [prototype]: { [constructor]: [36m[Circular][39m } } },
+                   parent: [36m[Circular][39m,
+                   filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+                   loaded: [33mtrue[39m,
+                   children: [ [length]: [33m0[39m ],
+                   paths: 
+                    [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+                      [32m'A:\\work\\PDE\\node_modules'[39m,
+                      [32m'A:\\work\\node_modules'[39m,
+                      [32m'A:\\node_modules'[39m,
+                      [length]: [33m11[39m ] },
+                 [length]: [33m1[39m ],
+              paths: 
+               [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+                 [32m'A:\\work\\PDE\\node_modules'[39m,
+                 [32m'A:\\work\\node_modules'[39m,
+                 [32m'A:\\node_modules'[39m,
+                 [length]: [33m11[39m ] },
+           [32m'1'[39m: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+           [length]: [33m2[39m,
+           [callee]: [36m[Circular][39m },
+        [caller]: 
+         { [Function]
+           [length]: [33m1[39m,
+           [name]: [32m''[39m,
+           [arguments]: 
+            { [32m'0'[39m: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+              [length]: [33m1[39m,
+              [callee]: [36m[Circular][39m },
+           [caller]: 
+            { [Function]
+              [length]: [33m3[39m,
+              [name]: [32m''[39m,
+              [arguments]: 
+               { [32m'0'[39m: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+                 [32m'1'[39m: [1mnull[22m,
+                 [32m'2'[39m: [33mtrue[39m,
+                 [length]: [33m3[39m,
+                 [callee]: [36m[Circular][39m },
+              [caller]: 
+               { [Function]
+                 [length]: [33m0[39m,
+                 [name]: [32m''[39m,
+                 [arguments]: { [length]: [33m0[39m, [callee]: [36m[Circular][39m },
+                 [caller]: 
+                  { [Function: startup]
+                    [length]: [33m0[39m,
+                    [name]: [32m'startup'[39m,
+                    [arguments]: { [length]: [33m0[39m, [callee]: [36m[Circular][39m },
+                    [caller]: 
+                     { [Function]
+                       [length]: [33m1[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: 
+                        { [32m'0'[39m: 
+                           { title: [32m'C:\\Windows\\system32\\cmd.exe - node  node-test.js '[39m,
+                             version: [32m'v0.10.35'[39m,
+                             moduleLoadList: 
+                              [ [32m'Binding evals'[39m,
+                                [32m'Binding natives'[39m,
+                                [32m'NativeModule events'[39m,
+                                [32m'NativeModule buffer'[39m,
+                                [32m'Binding buffer'[39m,
+                                [32m'NativeModule assert'[39m,
+                                [32m'NativeModule util'[39m,
+                                [32m'NativeModule path'[39m,
+                                [32m'NativeModule module'[39m,
+                                [32m'NativeModule fs'[39m,
+                                [32m'Binding fs'[39m,
+                                [32m'Binding constants'[39m,
+                                [32m'NativeModule stream'[39m,
+                                [32m'NativeModule _stream_readable'[39m,
+                                [32m'NativeModule _stream_writable'[39m,
+                                [32m'NativeModule _stream_duplex'[39m,
+                                [32m'NativeModule _stream_transform'[39m,
+                                [32m'NativeModule _stream_passthrough'[39m,
+                                [32m'NativeModule console'[39m,
+                                [32m'Binding tty_wrap'[39m,
+                                [32m'NativeModule tty'[39m,
+                                [32m'NativeModule net'[39m,
+                                [32m'NativeModule timers'[39m,
+                                [32m'Binding timer_wrap'[39m,
+                                [32m'NativeModule _linklist'[39m,
+                                [32m'Binding cares_wrap'[39m,
+                                [length]: [33m26[39m ],
+                             versions: 
+                              { http_parser: [32m'1.0'[39m,
+                                node: [32m'0.10.35'[39m,
+                                v8: [32m'3.14.5.9'[39m,
+                                ares: [32m'1.9.0-DEV'[39m,
+                                uv: [32m'0.10.30'[39m,
+                                zlib: [32m'1.2.8'[39m,
+                                modules: [32m'11'[39m,
+                                openssl: [32m'1.0.1j'[39m },
+                             arch: [32m'x64'[39m,
+                             platform: [32m'win32'[39m,
+                             argv: 
+                              [ [32m'node'[39m,
+                                [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+                                [length]: [33m2[39m ],
+                             execArgv: [ [length]: [33m0[39m ],
+                             env: 
+                              { ALLUSERSPROFILE: [32m'C:\\ProgramData'[39m,
+                                APPDATA: [32m'C:\\Users\\Ashwini\\AppData\\Roaming'[39m,
+                                CommonProgramFiles: [32m'C:\\Program Files\\Common Files'[39m,
+                                [32m'CommonProgramFiles(x86)'[39m: [32m'C:\\Program Files (x86)\\Common Files'[39m,
+                                CommonProgramW6432: [32m'C:\\Program Files\\Common Files'[39m,
+                                COMPUTERNAME: [32m'Ashwini'[39m,
+                                ComSpec: [32m'C:\\Windows\\system32\\cmd.exe'[39m,
+                                FP_NO_HOST_CHECK: [32m'NO'[39m,
+                                HOMEDRIVE: [32m'C:'[39m,
+                                HOMEPATH: [32m'\\Users\\Ashwini'[39m,
+                                LOCALAPPDATA: [32m'C:\\Users\\Ashwini\\AppData\\Local'[39m,
+                                LOGONSERVER: [32m'\\\\SUN'[39m,
+                                NUMBER_OF_PROCESSORS: [32m'4'[39m,
+                                OS: [32m'Windows_NT'[39m,
+                                Path: [32m'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\wkhtmltopdf\\bin;A:\\work\\PDE\\myProgFiles\\nodejs;A:\\work\\PDE\\myProgFiles\\Git\\cmd;A:\\work\\PDE\\myProgFiles\\Git\\bin;C:\\Program Files\\TortoiseGit\\bin;A:\\work\\PDE\\myProgFiles\\MongoDB 2.6 Standard\\bin;C:\\Users\\Ashwini\\AppData\\Roaming\\npm;A:\\work\\PDE\\myProgFiles\\apache-maven-3.2.3\\bin;C:\\Program Files (x86)\\Bitvise Tunnelier;C:\\Users\\Ashwini\\AppData\\Roaming\\npm'[39m,
+                                PATHEXT: [32m'.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'[39m,
+                                PDE_CATALINA_HOME: [32m'A:\\work\\PDE\\myProgFiles\\apache-tomcat-8.0.15'[39m,
+                                PDE_CATALINA_OPTS: [32m'-Xmx1024m -Xms512m -XX:MaxPermSize=256m -Duser.home=A:\\work\\PDE\\home'[39m,
+                                PDE_CATALINA_TMPDIR: [32m'A:\\work\\PDE\\myProgFiles\\apache-tomcat-8.0.15\\temp'[39m,
+                                PDE_JAVA_HOME: [32m'A:\\work\\PDE\\myProgFiles\\Java\\win_64\\jdk1.8.0_31'[39m,
+                                PDE_JAVA_OPTS: [32m'-Xmx1024m -Xms512m -XX:MaxPermSize=256m -Duser.home=A:\\work\\PDE\\home'[39m,
+                                PDE_JRE_HOME: [32m'A:\\work\\PDE\\myProgFiles\\Java\\win_64\\jre8'[39m,
+                                PDE_M2_HOME: [32m'A:\\work\\PDE\\myProgFiles\\apache-maven-3.2.3'[39m,
+                                PDE_MAVEN_OPTS: [32m'-Xmx1024m -Xms512m -XX:MaxPermSize=256m -Duser.home=A:\\work\\PDE\\home'[39m,
+                                PROCESSOR_ARCHITECTURE: [32m'AMD64'[39m,
+                                PROCESSOR_IDENTIFIER: [32m'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'[39m,
+                                PROCESSOR_LEVEL: [32m'6'[39m,
+                                PROCESSOR_REVISION: [32m'2a07'[39m,
+                                ProgramData: [32m'C:\\ProgramData'[39m,
+                                ProgramFiles: [32m'C:\\Program Files'[39m,
+                                [32m'ProgramFiles(x86)'[39m: [32m'C:\\Program Files (x86)'[39m,
+                                ProgramW6432: [32m'C:\\Program Files'[39m,
+                                PROMPT: [32m'$P$G'[39m,
+                                PSModulePath: [32m'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'[39m,
+                                PUBLIC: [32m'C:\\Users\\Public'[39m,
+                                SESSIONNAME: [32m'Console'[39m,
+                                SystemDrive: [32m'C:'[39m,
+                                SystemRoot: [32m'C:\\Windows'[39m,
+                                TEMP: [32m'C:\\Users\\Ashwini\\AppData\\Local\\Temp'[39m,
+                                TMP: [32m'C:\\Users\\Ashwini\\AppData\\Local\\Temp'[39m,
+                                USERDNSDOMAIN: [32m'COMPRO'[39m,
+                                USERDOMAIN: [32m'COMPRO'[39m,
+                                USERDOMAIN_ROAMINGPROFILE: [32m'COMPRO'[39m,
+                                USERNAME: [32m'Ashwini'[39m,
+                                USERPROFILE: [32m'C:\\Users\\Ashwini'[39m,
+                                windir: [32m'C:\\Windows'[39m },
+                             pid: [33m6396[39m,
+                             features: 
+                              { debug: [33mfalse[39m,
+                                uv: [33mtrue[39m,
+                                ipv6: [33mtrue[39m,
+                                tls_npn: [33mtrue[39m,
+                                tls_sni: [33mtrue[39m,
+                                tls: [33mtrue[39m },
+                             _needImmediateCallback: [33mfalse[39m,
+                             execPath: [32m'A:\\work\\PDE\\myProgFiles\\nodejs\\node.exe'[39m,
+                             debugPort: [33m5858[39m,
+                             _getActiveRequests: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _getActiveHandles: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _needTickCallback: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             reallyExit: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             abort: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             chdir: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             cwd: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             umask: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _kill: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _debugProcess: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _debugPause: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _debugEnd: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             hrtime: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             dlopen: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             uptime: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             memoryUsage: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             binding: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _usingDomains: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _tickInfoBox: 
+                              { [32m'0'[39m: [33m0[39m,
+                                [32m'1'[39m: [33m0[39m,
+                                [32m'2'[39m: [33m0[39m },
+                             _events: {},
+                             _emittingTopLevelDomainError: [33mfalse[39m,
+                             domain: [1mnull[22m,
+                             _maxListeners: [33m10[39m,
+                             EventEmitter: 
+                              { [Function: EventEmitter]
+                                [length]: [33m0[39m,
+                                [name]: [32m'EventEmitter'[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: 
+                                 { [constructor]: [36m[Circular][39m,
+                                   setMaxListeners: 
+                                    { [Function: setMaxListeners]
+                                      [length]: [33m1[39m,
+                                      [name]: [32m'setMaxListeners'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } },
+                                   emit: 
+                                    { [Function: emit]
+                                      [length]: [33m1[39m,
+                                      [name]: [32m'emit'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } },
+                                   addListener: 
+                                    { [Function: addListener]
+                                      [length]: [33m2[39m,
+                                      [name]: [32m'addListener'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } },
+                                   on: 
+                                    { [Function: addListener]
+                                      [length]: [33m2[39m,
+                                      [name]: [32m'addListener'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } },
+                                   once: 
+                                    { [Function: once]
+                                      [length]: [33m2[39m,
+                                      [name]: [32m'once'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } },
+                                   removeListener: 
+                                    { [Function: removeListener]
+                                      [length]: [33m2[39m,
+                                      [name]: [32m'removeListener'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } },
+                                   removeAllListeners: 
+                                    { [Function: removeAllListeners]
+                                      [length]: [33m1[39m,
+                                      [name]: [32m'removeAllListeners'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } },
+                                   listeners: 
+                                    { [Function: listeners]
+                                      [length]: [33m1[39m,
+                                      [name]: [32m'listeners'[39m,
+                                      [arguments]: [1mnull[22m,
+                                      [caller]: [1mnull[22m,
+                                      [prototype]: { [constructor]: [36m[Circular][39m } } },
+                                listenerCount: 
+                                 { [Function]
+                                   [length]: [33m2[39m,
+                                   [name]: [32m''[39m,
+                                   [arguments]: [1mnull[22m,
+                                   [caller]: [1mnull[22m,
+                                   [prototype]: { [constructor]: [36m[Circular][39m } } },
+                             _fatalException: 
+                              { [Function]
+                                [length]: [33m1[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _exiting: [33mfalse[39m,
+                             assert: 
+                              { [Function]
+                                [length]: [33m2[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             config: 
+                              { target_defaults: 
+                                 { cflags: [ [length]: [33m0[39m ],
+                                   default_configuration: [32m'Release'[39m,
+                                   defines: [ [length]: [33m0[39m ],
+                                   include_dirs: [ [length]: [33m0[39m ],
+                                   libraries: [ [length]: [33m0[39m ] },
+                                variables: 
+                                 { want_separate_host_toolset: [33m1[39m,
+                                   openssl_no_asm: [33m0[39m,
+                                   python: [32m'C:\\Python27\\python.exe'[39m,
+                                   node_shared_v8: [33mfalse[39m,
+                                   node_use_dtrace: [33mfalse[39m,
+                                   node_shared_zlib: [33mfalse[39m,
+                                   node_use_openssl: [33mtrue[39m,
+                                   node_use_perfctr: [33mtrue[39m,
+                                   node_has_winsdk: [33mtrue[39m,
+                                   v8_use_snapshot: [33mtrue[39m,
+                                   node_unsafe_optimizations: [33m0[39m,
+                                   host_arch: [32m'ia32'[39m,
+                                   clang: [33m0[39m,
+                                   node_shared_cares: [33mfalse[39m,
+                                   node_shared_openssl: [33mfalse[39m,
+                                   node_prefix: [32m''[39m,
+                                   target_arch: [32m'x64'[39m,
+                                   node_shared_http_parser: [33mfalse[39m,
+                                   v8_enable_gdbjit: [33m0[39m,
+                                   node_shared_libuv: [33mfalse[39m,
+                                   visibility: [32m''[39m,
+                                   node_use_systemtap: [33mfalse[39m,
+                                   node_tag: [32m''[39m,
+                                   node_install_npm: [33mtrue[39m,
+                                   v8_no_strict_aliasing: [33m1[39m,
+                                   node_use_etw: [33mtrue[39m } },
+                             nextTick: 
+                              { [Function: nextTick]
+                                [length]: [33m1[39m,
+                                [name]: [32m'nextTick'[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _currentTickHandler: 
+                              { [Function: _nextTick]
+                                [length]: [33m1[39m,
+                                [name]: [32m'_nextTick'[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _nextDomainTick: 
+                              { [Function: _nextDomainTick]
+                                [length]: [33m1[39m,
+                                [name]: [32m'_nextDomainTick'[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _tickCallback: 
+                              { [Function: _tickCallback]
+                                [length]: [33m0[39m,
+                                [name]: [32m'_tickCallback'[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _tickDomainCallback: 
+                              { [Function: _tickDomainCallback]
+                                [length]: [33m0[39m,
+                                [name]: [32m'_tickDomainCallback'[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             _tickFromSpinner: 
+                              { [Function: _tickFromSpinner]
+                                [length]: [33m0[39m,
+                                [name]: [32m'_tickFromSpinner'[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             maxTickDepth: [33m1000[39m,
+                             stdout: [36m[Getter][39m,
+                             stderr: [36m[Getter][39m,
+                             stdin: [36m[Getter][39m,
+                             openStdin: 
+                              { [Function]
+                                [length]: [33m0[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             exit: 
+                              { [Function]
+                                [length]: [33m1[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             kill: 
+                              { [Function]
+                                [length]: [33m2[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             addListener: 
+                              { [Function]
+                                [length]: [33m2[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             on: 
+                              { [Function]
+                                [length]: [33m2[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             removeListener: 
+                              { [Function]
+                                [length]: [33m2[39m,
+                                [name]: [32m''[39m,
+                                [arguments]: [1mnull[22m,
+                                [caller]: [1mnull[22m,
+                                [prototype]: { [constructor]: [36m[Circular][39m } },
+                             mainModule: 
+                              { id: [32m'.'[39m,
+                                exports: {},
+                                parent: [1mnull[22m,
+                                filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+                                loaded: [33mfalse[39m,
+                                children: 
+                                 [ { id: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+                                     exports: 
+                                      { [Function: customConsole]
+                                        [length]: [33m4[39m,
+                                        [name]: [32m'customConsole'[39m,
+                                        [arguments]: [36m[Getter/Setter][39m,
+                                        [caller]: [36m[Getter/Setter][39m,
+                                        [prototype]: { [constructor]: [36m[Circular][39m },
+                                        enableLogging: 
+                                         { [Function]
+                                           [length]: [33m0[39m,
+                                           [name]: [32m''[39m,
+                                           [arguments]: [36m[Getter/Setter][39m,
+                                           [caller]: [36m[Getter/Setter][39m,
+                                           [prototype]: { [constructor]: [36m[Circular][39m } } },
+                                     parent: [36m[Circular][39m,
+                                     filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+                                     loaded: [33mtrue[39m,
+                                     children: [ [length]: [33m0[39m ],
+                                     paths: 
+                                      [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+                                        [32m'A:\\work\\PDE\\node_modules'[39m,
+                                        [32m'A:\\work\\node_modules'[39m,
+                                        [32m'A:\\node_modules'[39m,
+                                        [length]: [33m11[39m ] },
+                                   [length]: [33m1[39m ],
+                                paths: 
+                                 [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+                                   [32m'A:\\work\\PDE\\node_modules'[39m,
+                                   [32m'A:\\work\\node_modules'[39m,
+                                   [32m'A:\\node_modules'[39m,
+                                   [length]: [33m11[39m ] } },
+                          [length]: [33m1[39m,
+                          [callee]: [36m[Circular][39m },
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    [prototype]: { [constructor]: [36m[Circular][39m },
+                    globalVariables: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    globalTimeouts: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    globalConsole: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    _lazyConstants: [1mnull[22m,
+                    lazyConstants: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processFatal: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processAssert: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processConfig: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processNextTick: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processStdio: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processKillAndExit: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processSignalHandlers: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    processChannel: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } },
+                    resolveArgv0: 
+                     { [Function]
+                       [length]: [33m0[39m,
+                       [name]: [32m''[39m,
+                       [arguments]: [1mnull[22m,
+                       [caller]: [1mnull[22m,
+                       [prototype]: { [constructor]: [36m[Circular][39m } } },
+                 [prototype]: { [constructor]: [36m[Circular][39m } },
+              [prototype]: { [constructor]: [36m[Circular][39m } },
+           [prototype]: { [constructor]: [36m[Circular][39m } },
+        [prototype]: { [constructor]: [36m[Circular][39m } },
+     [32m'.json'[39m: 
+      { [Function]
+        [length]: [33m2[39m,
+        [name]: [32m''[39m,
+        [arguments]: [1mnull[22m,
+        [caller]: [1mnull[22m,
+        [prototype]: { [constructor]: [36m[Circular][39m } },
+     [32m'.node'[39m: 
+      { [Function]
+        [length]: [33m0[39m,
+        [name]: [32m''[39m,
+        [arguments]: [1mnull[22m,
+        [caller]: [1mnull[22m,
+        [prototype]: { [constructor]: [36m[Circular][39m } } },
+  registerExtension: 
+   { [Function]
+     [length]: [33m0[39m,
+     [name]: [32m''[39m,
+     [arguments]: [1mnull[22m,
+     [caller]: [1mnull[22m,
+     [prototype]: { [constructor]: [36m[Circular][39m } },
+  cache: 
+   { [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m: 
+      { id: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+        exports: 
+         { [Function: customConsole]
+           [length]: [33m4[39m,
+           [name]: [32m'customConsole'[39m,
+           [arguments]: [36m[Getter/Setter][39m,
+           [caller]: [36m[Getter/Setter][39m,
+           [prototype]: { [constructor]: [36m[Circular][39m },
+           enableLogging: 
+            { [Function]
+              [length]: [33m0[39m,
+              [name]: [32m''[39m,
+              [arguments]: [36m[Getter/Setter][39m,
+              [caller]: [36m[Getter/Setter][39m,
+              [prototype]: { [constructor]: [36m[Circular][39m } } },
+        parent: 
+         { id: [32m'.'[39m,
+           exports: {},
+           parent: [1mnull[22m,
+           filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+           loaded: [33mfalse[39m,
+           children: [ [36m[Circular][39m, [length]: [33m1[39m ],
+           paths: 
+            [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+              [32m'A:\\work\\PDE\\node_modules'[39m,
+              [32m'A:\\work\\node_modules'[39m,
+              [32m'A:\\node_modules'[39m,
+              [length]: [33m11[39m ] },
+        filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+        loaded: [33mtrue[39m,
+        children: [ [length]: [33m0[39m ],
+        paths: 
+         [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\node_modules'[39m,
+           [32m'A:\\work\\node_modules'[39m,
+           [32m'A:\\node_modules'[39m,
+           [length]: [33m11[39m ] },
+     [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m: 
+      { id: [32m'.'[39m,
+        exports: {},
+        parent: [1mnull[22m,
+        filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node-test.js'[39m,
+        loaded: [33mfalse[39m,
+        children: 
+         [ { id: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+             exports: 
+              { [Function: customConsole]
+                [length]: [33m4[39m,
+                [name]: [32m'customConsole'[39m,
+                [arguments]: [36m[Getter/Setter][39m,
+                [caller]: [36m[Getter/Setter][39m,
+                [prototype]: { [constructor]: [36m[Circular][39m },
+                enableLogging: 
+                 { [Function]
+                   [length]: [33m0[39m,
+                   [name]: [32m''[39m,
+                   [arguments]: [36m[Getter/Setter][39m,
+                   [caller]: [36m[Getter/Setter][39m,
+                   [prototype]: { [constructor]: [36m[Circular][39m } } },
+             parent: [36m[Circular][39m,
+             filename: [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\log-util.js'[39m,
+             loaded: [33mtrue[39m,
+             children: [ [length]: [33m0[39m ],
+             paths: 
+              [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+                [32m'A:\\work\\PDE\\node_modules'[39m,
+                [32m'A:\\work\\node_modules'[39m,
+                [32m'A:\\node_modules'[39m,
+                [length]: [33m11[39m ] },
+           [length]: [33m1[39m ],
+        paths: 
+         [ [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\utils\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\compare\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\modules\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\skill_analysis\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\public\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\all\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\baloo\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\code\\node_modules'[39m,
+           [32m'A:\\work\\PDE\\node_modules'[39m,
+           [32m'A:\\work\\node_modules'[39m,
+           [32m'A:\\node_modules'[39m,
+           [length]: [33m11[39m ] } } }
+1--------  require  ---------1
+
+
